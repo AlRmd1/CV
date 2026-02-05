@@ -4,6 +4,7 @@ This project is a single-page CV built using semantic HTML only.
 
 ## 📌 Project URL
 https://alrmd1.github.io/CV/
+https://roadmap.sh/projects/single-page-cv
 
 ## 🛠️ Technologies Used
 - HTML5 (Semantic HTML)
